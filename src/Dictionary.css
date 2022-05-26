@@ -5,7 +5,9 @@
 
 .App h2 {
   font-size: 40px;
-  color: rgb(7, 207, 141);
+  font-weight: bolder;
+  font-style: oblique;
+  color: rgb(70, 143, 1);
   margin: 30px 0;
 }
 
