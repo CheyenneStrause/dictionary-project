@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  justify-content: center;
 }
 
 .App h2 {
@@ -11,4 +12,8 @@
 .App h3 {
   font-size: 30px;
   color: rgb(2, 95, 64);
+}
+
+.App form {
+  text-align: center;
 }
