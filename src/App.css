@@ -1,3 +1,11 @@
+body {
+  background-color: rgba(0, 128, 0, 0.164);
+}
+
+a {
+  color: rgba(129, 71, 0, 0.685);
+}
+
 .App-header {
   margin: 30px 0;
   font-size: 40px;
@@ -9,5 +17,23 @@
 }
 
 .App {
-  background-color: rgba(0, 146, 32, 0.123);
+  text-align: left;
+  justify-content: center;
+}
+
+.App h2 {
+  font-size: 40px;
+  font-weight: bolder;
+  font-style: oblique;
+  color: rgba(82, 180, 89, 0.925);
+  margin: 30px 0;
+}
+
+.App h3 {
+  font-size: 30px;
+  color: rgb(2, 95, 64);
+}
+
+.App form {
+  text-align: center;
 }

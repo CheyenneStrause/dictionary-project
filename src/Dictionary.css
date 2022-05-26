@@ -1,21 +1,29 @@
-.App {
-  text-align: left;
-  justify-content: center;
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
-.App h2 {
-  font-size: 40px;
-  font-weight: bolder;
-  font-style: oblique;
-  color: rgb(70, 143, 1);
-  margin: 30px 0;
+.Dictionary section {
+  background: #f5faf5;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 20px 0;
+  box-shadow: 0 5px 5px rgb(0 0 0 / 10%);
 }
 
-.App h3 {
-  font-size: 30px;
-  color: rgb(2, 95, 64);
-}
-
-.App form {
+.Dictionary form {
   text-align: center;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  border: 1px solid #3c813c;
+  color: rgb(148, 97, 3);
+}
+
+.Dictionary .hint {
+  font-size: 12px;
+  margin-top: 6px;
 }

@@ -1,0 +1,12 @@
+.Results h2 {
+  font-size: 40px;
+  font-weight: bolder;
+  font-style: oblique;
+  color: rgba(82, 180, 89, 0.925);
+  line-height: 0.5;
+}
+
+.Results .h3 {
+  font-size: 30px;
+  color: rgb(2, 95, 64);
+}
