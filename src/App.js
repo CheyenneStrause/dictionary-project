@@ -10,7 +10,18 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer text-center">
-          <small>Coded by Cheyenne Strause</small>
+          <small>
+            This project was coded by <strong>Cheyenne Strause</strong> and is{" "}
+            <a href="https://github.com/CheyenneStrause/dictionary-project">
+              {" "}
+              open-sourced on Github
+            </a>{" "}
+            and{" "}
+            <a href="https://sparkling-seahorse-e1e8c7.netlify.app/">
+              hosted on Netlify
+            </a>{" "}
+            🌴
+          </small>
         </footer>
       </div>
     </div>
